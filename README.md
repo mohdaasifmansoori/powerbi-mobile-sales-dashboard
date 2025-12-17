@@ -22,7 +22,7 @@ This is my first Power BI dashboard created to analyze mobile sales data and gen
 - Excel / CSV
 
 ## Screenshot
-![Dashboard](Screenshots/My First Dashboard.png)
+![Dashboard](Screenshots/my_first_dashboard.png)
 
 ## Learnings
 - Data cleaning and modeling
